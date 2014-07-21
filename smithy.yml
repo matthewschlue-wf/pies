@@ -19,5 +19,4 @@ script:
   - find . -type f -ls
   - ls -al $TEST_REPORTS_DIR
   
-test-reports: 
-  - testing
+test_reports: testing
