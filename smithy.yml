@@ -13,7 +13,6 @@ env:
 script:
   - nosetests
   - python setup.py sdist
-  - mkdir $TEST_REPORTS_DIR
   - 'echo "TEST REPORTS DIR: $TEST_REPORTS_DIR"'
   - cp test-xml/*.xml $TEST_REPORTS_DIR/
   - find . -type f -ls
