@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="admin.tests.views.test_groups" tests="3" time="0.00158929824829"><testcase classname="admin.tests.views.test_groups.GroupSearchApiACTestCase" name="test_get_data" time="0.000643014907837"></testcase><testcase classname="admin.tests.views.test_groups.GroupSearchApiACTestCase" name="test_format_result" time="0.000475168228149"></testcase><testcase classname="admin.tests.views.test_groups.GroupsDetailsViewTestCase" name="test_licenses_in_add_call" time="0.000471115112305"></testcase></testsuite>

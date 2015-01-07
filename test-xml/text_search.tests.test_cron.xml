@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="text_search.tests.test_cron" tests="2" time="0.00206208229065"><testcase classname="text_search.tests.test_cron.CronJobRunTestCase" name="test_no_task_queued_if_no_account_retrieved" time="0.000779151916504"></testcase><testcase classname="text_search.tests.test_cron.CronJobRunTestCase" name="test_run_tasks_based_on_number_of_accounts" time="0.00128293037415"></testcase></testsuite>

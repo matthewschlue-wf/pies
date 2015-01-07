@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="xbrl.tests.test_defn_doc_validations" tests="2" time="0.134404182434"><testcase classname="xbrl.tests.test_defn_doc_validations.XBRLDefinitionLinkbaseValidationTests" name="test_defn_doc_validations" time="0.0682210922241"></testcase><testcase classname="xbrl.tests.test_defn_doc_validations.XBRLDefinitionLinkbaseValidationTests" name="test_complex_defn_doc_validations" time="0.06618309021"></testcase></testsuite>

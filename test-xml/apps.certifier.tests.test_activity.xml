@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="apps.certifier.tests.test_activity" tests="2" time="1.52134895325"><testcase classname="apps.certifier.tests.test_activity.ActivityGrid" name="test_default_col_values_exist" time="1.51924085617"></testcase><testcase classname="apps.certifier.tests.test_activity.ActivityApiReadTests" name="test_get_audit_logs" time="0.00210809707642"></testcase></testsuite>

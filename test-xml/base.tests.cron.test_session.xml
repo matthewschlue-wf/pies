@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="base.tests.cron.test_session" tests="3" time="0.134296178818"><testcase classname="base.tests.cron.test_session.CleanupTestCase" name="test_filter" time="0.0754411220551"></testcase><testcase classname="base.tests.cron.test_session.CleanupTestCase" name="test_init" time="0.00143194198608"></testcase><testcase classname="base.tests.cron.test_session.CleanupTestCase" name="test_limit" time="0.0574231147766"></testcase></testsuite>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="documents.tests.document_copy.test_errors" tests="1" time="0.000513076782227"><testcase classname="documents.tests.document_copy.test_errors.CopyErrorsTestCase" name="test_repr_json_serializable" time="0.000513076782227"></testcase></testsuite>

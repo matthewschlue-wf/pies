@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="documents.tests.textutils.test_format_utils" tests="1" time="0.000638008117676"><testcase classname="documents.tests.textutils.test_format_utils.TestInputCleaner" name="test_coerce_unicode_to_utf8" time="0.000638008117676"></testcase></testsuite>

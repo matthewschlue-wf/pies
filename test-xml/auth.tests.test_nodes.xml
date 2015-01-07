@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="auth.tests.test_nodes" tests="1" time="1.07122802734"><testcase classname="auth.tests.test_nodes.PasswordForgotNodeTestCase" name="test_close_button" time="1.07122802734"></testcase></testsuite>

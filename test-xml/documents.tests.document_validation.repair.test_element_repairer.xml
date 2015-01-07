@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="documents.tests.document_validation.repair.test_element_repairer" tests="2" time="0.00462102890015"><testcase classname="documents.tests.document_validation.repair.test_element_repairer.When_create_client_element" name="test_create_element_new_element" time="0.00278210639954"></testcase><testcase classname="documents.tests.document_validation.repair.test_element_repairer.When_create_client_element" name="test_create_element_exists" time="0.00183892250061"></testcase></testsuite>

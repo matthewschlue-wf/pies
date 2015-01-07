@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="apps.serveradmin.tests.grids.test_diagnostics" tests="2" time="0.0204989910126"><testcase classname="apps.serveradmin.tests.grids.test_diagnostics.RemoveDraftSessionTestCase" name="test_can_access_regular_user" time="0.0109651088715"></testcase><testcase classname="apps.serveradmin.tests.grids.test_diagnostics.RemoveDraftSessionTestCase" name="test_can_access_system_user" time="0.00953388214111"></testcase></testsuite>

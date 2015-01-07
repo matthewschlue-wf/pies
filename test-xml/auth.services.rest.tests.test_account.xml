@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="auth.services.rest.tests.test_account" tests="3" time="0.0512959957123"><testcase classname="auth.services.rest.tests.test_account.AccountApiTestCase" name="test_0_1" time="0.0367629528046"></testcase><testcase classname="auth.services.rest.tests.test_account.AccountApiTestCase" name="test_0_2" time="0.00734615325928"></testcase><testcase classname="auth.services.rest.tests.test_account.AccountApiTestCase" name="test_0_3" time="0.00718688964844"></testcase></testsuite>

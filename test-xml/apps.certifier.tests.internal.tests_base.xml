@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="apps.certifier.tests.internal.tests_base" tests="2" time="0.00104284286499"><testcase classname="apps.certifier.tests.internal.tests_base.GetQueueHelpers" name="test_get_event_queue" time="0.00037693977356"></testcase><testcase classname="apps.certifier.tests.internal.tests_base.GetQueueHelpers" name="test_get_callback_queue" time="0.000665903091431"></testcase></testsuite>

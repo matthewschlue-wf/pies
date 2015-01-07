@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="documents.tests.dochelper.test_diff_brett_simple_replace" tests="1" time="0.00518608093262"><testcase classname="documents.tests.dochelper.test_diff_brett_simple_replace.TestDiffSection" name="test_brett_simple_replace" time="0.00518608093262"></testcase></testsuite>

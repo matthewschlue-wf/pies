@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="wfapi.rest.documents.tests.test_models" tests="2" time="0.00165104866028"><testcase classname="wfapi.rest.documents.tests.test_models.TestGetSetPreviousSync" name="test_get_previous_sync" time="0.00104808807373"></testcase><testcase classname="wfapi.rest.documents.tests.test_models.TestGetSetPreviousSync" name="test_save_previous_sync" time="0.000602960586548"></testcase></testsuite>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="apps.certifier.tests.internal.exports.test_certification" tests="2" time="0.0079300403595"><testcase classname="apps.certifier.tests.internal.exports.test_certification.CertGenerateAutosavePDFContentTests" name="test_without_signer_responses" time="0.00364303588867"></testcase><testcase classname="apps.certifier.tests.internal.exports.test_certification.CertGenerateAutosavePDFContentTests" name="test_with_signer_responses" time="0.00428700447083"></testcase></testsuite>

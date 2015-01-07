@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="base.tests.test_kinds" tests="1" time="0.403102874756"><testcase classname="base.tests.test_kinds.MixInTestCase" name="test_kinds" time="0.403102874756"></testcase></testsuite>

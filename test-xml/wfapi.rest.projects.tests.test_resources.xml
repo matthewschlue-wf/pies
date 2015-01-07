@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="wfapi.rest.projects.tests.test_resources" tests="2" time="0.453681945801"><testcase classname="wfapi.rest.projects.tests.test_resources.TestProjectsResources" name="test_get_mru_documents_returns_document" time="0.449749946594"></testcase><testcase classname="wfapi.rest.projects.tests.test_resources.TestProjectsResources" name="test_get_mru_documents_returns_only_workbook" time="0.00393199920654"></testcase></testsuite>

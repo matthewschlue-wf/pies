@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="apps.certifier.tests.internal.test_file_uploads" tests="1" time="0.00190401077271"><testcase classname="apps.certifier.tests.internal.test_file_uploads.InternalFileUploadsTests" name="test_get_wrapped_download_url" time="0.00190401077271"></testcase></testsuite>

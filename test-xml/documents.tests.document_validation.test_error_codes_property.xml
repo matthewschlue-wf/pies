@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="documents.tests.document_validation.test_error_codes_property" tests="2" time="0.000791072845459"><testcase classname="documents.tests.document_validation.test_error_codes_property.ErrorCodesPropertyTestCase" name="test_json_property_raises_exception" time="0.000271081924438"></testcase><testcase classname="documents.tests.document_validation.test_error_codes_property.ErrorCodesPropertyTestCase" name="test_error_property_returns_None" time="0.000519990921021"></testcase></testsuite>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="revision.tests.api.test_revision_config" tests="1" time="0.000993013381958"><testcase classname="revision.tests.api.test_revision_config.TestRevisionContextConfig" name="test_config_is_immutable" time="0.000993013381958"></testcase></testsuite>

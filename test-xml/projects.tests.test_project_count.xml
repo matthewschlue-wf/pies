@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="projects.tests.test_project_count" tests="1" time="0.280371904373"><testcase classname="projects.tests.test_project_count.FilingProjectGetDocumentCountTestCase" name="test_get_document_counts" time="0.280371904373"></testcase></testsuite>

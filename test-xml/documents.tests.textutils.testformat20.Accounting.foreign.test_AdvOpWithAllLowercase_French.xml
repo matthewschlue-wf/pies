@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="documents.tests.textutils.testformat20.Accounting.foreign.test_AdvOpWithAllLowercase_French" tests="1" time="0.852361917496"><testcase classname="documents.tests.textutils.testformat20.Accounting.foreign.test_AdvOpWithAllLowercase_French.Accounting_AdvOpWithAllCapitalized" name="test_format" time="0.852361917496"></testcase></testsuite>

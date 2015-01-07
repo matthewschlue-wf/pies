@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="documents.tests.textutils.testformat20.Accounting.test_AdvOpWithCurrencyWithoutInline" tests="1" time="1.82186293602"><testcase classname="documents.tests.textutils.testformat20.Accounting.test_AdvOpWithCurrencyWithoutInline.Accounting_AdvOpWithCurrencyWithoutInline" name="test_format" time="1.82186293602"></testcase></testsuite>

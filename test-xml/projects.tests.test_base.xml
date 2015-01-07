@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="projects.tests.test_base" tests="3" time="0.00254917144775"><testcase classname="projects.tests.test_base.TestAppendableZipFile" name="test_append_single" time="0.000586032867432"></testcase><testcase classname="projects.tests.test_base.TestAppendableZipFile" name="test_append_multi" time="0.00121808052063"></testcase><testcase classname="projects.tests.test_base.TestAppendableZipFile" name="test_subsequent_write" time="0.000745058059692"></testcase></testsuite>

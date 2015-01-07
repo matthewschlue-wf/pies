@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="tools.tests.test_bug" tests="1" time="2.48715591431"><testcase classname="tools.tests.test_bug.TestCopyDocFunctional" name="test_onSecToWFxml" time="2.48715591431"></testcase></testsuite>

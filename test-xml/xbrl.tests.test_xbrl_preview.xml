@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<testsuite errors="0" failures="0" name="xbrl.tests.test_xbrl_preview" tests="1" time="0.555100917816"><testcase classname="xbrl.tests.test_xbrl_preview.XBRLPreviewTest" name="test_xbrl_viewer_status_callback" time="0.555100917816"></testcase></testsuite>
+<testsuite errors="0" failures="0" name="xbrl.tests.test_xbrl_preview" tests="1" time="0.581336975098"><testcase classname="xbrl.tests.test_xbrl_preview.XBRLPreviewTest" name="test_xbrl_viewer_status_callback" time="0.581336975098"></testcase></testsuite>

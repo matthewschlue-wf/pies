@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="apps.home.tests.api.test_folders" tests="2" time="0.652380943298"><testcase classname="apps.home.tests.api.test_folders.GetFolderTreeTestCase" name="test_calls_internal" time="0.651536941528"></testcase><testcase classname="apps.home.tests.api.test_folders.GetFolderTreeTestCase" name="test_not_authorized" time="0.00084400177002"></testcase></testsuite>

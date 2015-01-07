@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="authentication.tests.cron.test_images" tests="2" time="0.000820875167847"><testcase classname="authentication.tests.cron.test_images.CronJobTestCase" name="test_run" time="0.000403881072998"></testcase><testcase classname="authentication.tests.cron.test_images.CronJobTestCase" name="test_has_job" time="0.000416994094849"></testcase></testsuite>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="base.tests.test_setup" tests="1" time="0.00347495079041"><testcase classname="base.tests.test_setup.MiddlewareTestCase" name="test_session" time="0.00347495079041"></testcase></testsuite>

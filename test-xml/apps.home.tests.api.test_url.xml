@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="apps.home.tests.api.test_url" tests="2" time="0.00179576873779"><testcase classname="apps.home.tests.api.test_url.GetUrlTestCase" name="test_calls_internal" time="0.00123286247253"></testcase><testcase classname="apps.home.tests.api.test_url.GetUrlTestCase" name="test_not_authorized" time="0.000562906265259"></testcase></testsuite>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="apps.serveradmin.tests.internal.diagnostics.test_shares" tests="2" time="0.0375380516052"><testcase classname="apps.serveradmin.tests.internal.diagnostics.test_shares.GetFailedSharesTestCase" name="test_failed_shares" time="0.0227289199829"></testcase><testcase classname="apps.serveradmin.tests.internal.diagnostics.test_shares.GetFailedSharesTestCase" name="test_no_failed_shares" time="0.0148091316223"></testcase></testsuite>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="apps.server_composition.tests.test_api" tests="2" time="0.107354879379"><testcase classname="apps.server_composition.tests.test_api.ChartApiTestCase" name="test_api_jpg" time="0.106782913208"></testcase><testcase classname="apps.server_composition.tests.test_api.ServerCompositionTestCase" name="test_get_document" time="0.000571966171265"></testcase></testsuite>

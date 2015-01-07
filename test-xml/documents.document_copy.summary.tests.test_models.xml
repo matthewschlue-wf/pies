@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="documents.document_copy.summary.tests.test_models" tests="1" time="0.178175926208"><testcase classname="documents.document_copy.summary.tests.test_models.VerifySummaryModelTestCase" name="test_local_structured_property" time="0.178175926208"></testcase></testsuite>

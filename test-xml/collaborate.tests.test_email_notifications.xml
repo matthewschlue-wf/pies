@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="collaborate.tests.test_email_notifications" tests="1" time="0.00111508369446"><testcase classname="collaborate.tests.test_email_notifications.SendReleaseLockEmailsTestCase" name="test_email_content" time="0.00111508369446"></testcase></testsuite>

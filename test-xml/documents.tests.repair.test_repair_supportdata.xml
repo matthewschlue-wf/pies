@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="documents.tests.repair.test_repair_supportdata" tests="2" time="0.205670118332"><testcase classname="documents.tests.repair.test_repair_supportdata.TestValidateSupportData" name="test_10_bad_sdis" time="0.000357151031494"></testcase><testcase classname="documents.tests.repair.test_repair_supportdata.TestValidateSupportData" name="test_get_section_support_data_by_section" time="0.2053129673"></testcase></testsuite>

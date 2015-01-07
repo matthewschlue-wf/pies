@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="documents.tests.dochelper.test_outline" tests="1" time="0.00138282775879"><testcase classname="documents.tests.dochelper.test_outline.GetTableCellLabelsTestCase" name="test_get_titles_from_tree" time="0.00138282775879"></testcase></testsuite>

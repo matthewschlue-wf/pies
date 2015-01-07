@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="documents.tests.document_validation.validators.test_sdb" tests="1" time="0.00290107727051"><testcase classname="documents.tests.document_validation.validators.test_sdb.SDBValidatorTestCase" name="test_LINK_REMOVED_SD_FOR_UNKNOWN_OBJECT" time="0.00290107727051"></testcase></testsuite>

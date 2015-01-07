@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="documents.tests.dochelper.test_diff_delete_row" tests="2" time="0.0130717754364"><testcase classname="documents.tests.dochelper.test_diff_delete_row.TestDiffSection" name="test_delete_row" time="0.00689888000488"></testcase><testcase classname="documents.tests.dochelper.test_diff_delete_row.TestDiffSection" name="test_delete_row_workbook" time="0.00617289543152"></testcase></testsuite>

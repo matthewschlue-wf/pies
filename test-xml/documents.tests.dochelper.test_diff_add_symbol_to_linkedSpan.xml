@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="documents.tests.dochelper.test_diff_add_symbol_to_linkedSpan" tests="1" time="0.0114240646362"><testcase classname="documents.tests.dochelper.test_diff_add_symbol_to_linkedSpan.TestDiffSection" name="test_add_symbol_to_linkedSpan" time="0.0114240646362"></testcase></testsuite>

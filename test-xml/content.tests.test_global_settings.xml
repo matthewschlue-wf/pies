@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="content.tests.test_global_settings" tests="1" time="0.0201201438904"><testcase classname="content.tests.test_global_settings.ContentDataTestCase" name="test_base_url_with_vagrant" time="0.0201201438904"></testcase></testsuite>

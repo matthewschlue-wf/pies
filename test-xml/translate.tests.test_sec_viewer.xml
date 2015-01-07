@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="translate.tests.test_sec_viewer" tests="2" time="0.00110197067261"><testcase classname="translate.tests.test_sec_viewer.SECViewerCase" name="test_dotnet_translate_on_failure" time="0.000777006149292"></testcase><testcase classname="translate.tests.test_sec_viewer.SECViewerCase" name="test_dotnet_translate_on_success" time="0.000324964523315"></testcase></testsuite>

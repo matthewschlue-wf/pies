@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="apps.superadmin.tests.nodes.test_utilities" tests="1" time="0.963679075241"><testcase classname="apps.superadmin.tests.nodes.test_utilities.UtilitiesSidebarMenuNodeTestCase" name="test_menu_user_roles" time="0.963679075241"></testcase></testsuite>

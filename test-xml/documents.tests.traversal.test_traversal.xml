@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="documents.tests.traversal.test_traversal" tests="2" time="9.40456724167"><testcase classname="documents.tests.traversal.test_traversal.Test_document_traversal" name="test_traversal" time="4.71227622032"></testcase><testcase classname="documents.tests.traversal.test_traversal.Test_document_traversal" name="test_unique_results" time="4.69229102135"></testcase></testsuite>

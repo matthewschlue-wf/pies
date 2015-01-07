@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="wfapi.rest.documents.tests.test_resources" tests="2" time="0.00118803977966"><testcase classname="wfapi.rest.documents.tests.test_resources.TestDocumentsResousrces" name="test_get_deep_link_url_server_name" time="0.000742197036743"></testcase><testcase classname="wfapi.rest.documents.tests.test_resources.TestDocumentsResousrces" name="test_get_deep_link_url_server_name_when_meta_fails" time="0.00044584274292"></testcase></testsuite>

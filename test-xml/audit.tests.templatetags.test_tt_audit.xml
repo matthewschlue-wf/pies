@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="audit.tests.templatetags.test_tt_audit" tests="3" time="0.090491771698"><testcase classname="audit.tests.templatetags.test_tt_audit.DetailsHtmlTestCase" name="test_invalid" time="0.0268008708954"></testcase><testcase classname="audit.tests.templatetags.test_tt_audit.DetailsHtmlTestCase" name="test_diff" time="0.0283029079437"></testcase><testcase classname="audit.tests.templatetags.test_tt_audit.DetailsHtmlTestCase" name="test_dict" time="0.0353879928589"></testcase></testsuite>

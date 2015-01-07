@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="documents.reviews.tests.test_reviews_api" tests="1" time="0.189861059189"><testcase classname="documents.reviews.tests.test_reviews_api.ReviewApiTestCase" name="test_get_review_by_entitykey" time="0.189861059189"></testcase></testsuite>

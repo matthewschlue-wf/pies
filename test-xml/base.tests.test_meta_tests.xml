@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="base.tests.test_meta_tests" tests="1" time="0.00210309028625"><testcase classname="base.tests.test_meta_tests.XMLEqualTestCase" name="test_simple" time="0.00210309028625"></testcase></testsuite>

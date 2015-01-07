@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="xbrl.tests.test_docgen_doc_instance" tests="1" time="0.000799894332886"><testcase classname="xbrl.tests.test_docgen_doc_instance.DocInstanceTestCase" name="test_search_for_namespaces_returns_all_namespace_list_namespaces" time="0.000799894332886"></testcase></testsuite>

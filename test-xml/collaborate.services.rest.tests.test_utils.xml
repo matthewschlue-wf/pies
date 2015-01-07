@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="collaborate.services.rest.tests.test_utils" tests="1" time="0.00196313858032"><testcase classname="collaborate.services.rest.tests.test_utils.CollaborateRESTUtilsTest" name="test_get_subscription_type_and_id_from_string" time="0.00196313858032"></testcase></testsuite>

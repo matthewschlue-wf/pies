@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="collaborate.tests.test_locks" tests="1" time="0.000505924224854"><testcase classname="collaborate.tests.test_locks.AMFTestCase" name="test_aliases" time="0.000505924224854"></testcase></testsuite>

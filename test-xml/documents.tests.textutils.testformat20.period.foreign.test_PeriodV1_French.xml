@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="documents.tests.textutils.testformat20.period.foreign.test_PeriodV1_French" tests="1" time="0.221406936646"><testcase classname="documents.tests.textutils.testformat20.period.foreign.test_PeriodV1_French.PeriodV1" name="test_format" time="0.221406936646"></testcase></testsuite>

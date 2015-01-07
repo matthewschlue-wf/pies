@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="documents.tests.document_validation.repair.test_textflow_repair" tests="1" time="0.140480995178"><testcase classname="documents.tests.document_validation.repair.test_textflow_repair.SectionRepairerTextFlowTestCase" name="test_make_textflow_repair_invalid_operations" time="0.140480995178"></testcase></testsuite>

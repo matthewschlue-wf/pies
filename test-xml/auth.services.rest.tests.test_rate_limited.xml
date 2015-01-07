@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="auth.services.rest.tests.test_rate_limited" tests="2" time="2.52623009682"><testcase classname="auth.services.rest.tests.test_rate_limited.RateLimitedTestCase" name="test_limted" time="2.52567696571"></testcase><testcase classname="auth.services.rest.tests.test_rate_limited.RateLimitedTestCase" name="test_smoke_test" time="0.000553131103516"></testcase></testsuite>

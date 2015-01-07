@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="documents.tests.document_validation.tasks.test_callback" tests="1" time="0.112555980682"><testcase classname="documents.tests.document_validation.tasks.test_callback.TestValidationCallback" name="test_callbacks_are_none" time="0.112555980682"></testcase></testsuite>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="xbrl.tests.generation.test_map_concept_guid" tests="1" time="0.000738143920898"><testcase classname="xbrl.tests.generation.test_map_concept_guid.ConceptGuidMappingTestCase" name="test_map_concept_guids" time="0.000738143920898"></testcase></testsuite>

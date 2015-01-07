@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="apps.viewer.tests.unit.test_models" tests="3" time="0.143892049789"><testcase classname="apps.viewer.tests.unit.test_models.ViewerImageTestCase" name="test_security" time="0.0389590263367"></testcase><testcase classname="apps.viewer.tests.unit.test_models.ViewerImageTestCase" name="test_security_settings" time="0.0467820167542"></testcase><testcase classname="apps.viewer.tests.unit.test_models.ViewerImageTestCase" name="test_can_read" time="0.0581510066986"></testcase></testsuite>

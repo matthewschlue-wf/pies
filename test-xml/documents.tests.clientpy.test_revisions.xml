@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="documents.tests.clientpy.test_revisions" tests="1" time="2.42173480988"><testcase classname="documents.tests.clientpy.test_revisions.SimpleRevisionTestCase" name="test_simple_section_data_change" time="2.42173480988"></testcase></testsuite>

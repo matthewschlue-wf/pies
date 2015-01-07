@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="base.tests.analytics.test_wfanalytics" tests="3" time="0.00225615501404"><testcase classname="base.tests.analytics.test_wfanalytics.GetUIDTestCase" name="test_regular_user" time="0.000865936279297"></testcase><testcase classname="base.tests.analytics.test_wfanalytics.GetUIDTestCase" name="test_no_user" time="0.000734090805054"></testcase><testcase classname="base.tests.analytics.test_wfanalytics.GetUIDTestCase" name="test_webfilings_user" time="0.000656127929688"></testcase></testsuite>

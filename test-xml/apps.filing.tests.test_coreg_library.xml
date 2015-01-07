@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="apps.filing.tests.test_coreg_library" tests="2" time="0.165134906769"><testcase classname="apps.filing.tests.test_coreg_library.CoRegLibraryTestCase" name="test_get_display_name" time="0.00116991996765"></testcase><testcase classname="apps.filing.tests.test_coreg_library.CoRegLibraryTestCase" name="test_get_coreg_library" time="0.163964986801"></testcase></testsuite>

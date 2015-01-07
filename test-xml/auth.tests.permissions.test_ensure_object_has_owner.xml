@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="auth.tests.permissions.test_ensure_object_has_owner" tests="2" time="0.00145816802979"><testcase classname="auth.tests.permissions.test_ensure_object_has_owner.TestEnsureObjectHasOwner" name="test_owner_does_not_exist" time="0.000929117202759"></testcase><testcase classname="auth.tests.permissions.test_ensure_object_has_owner.TestEnsureObjectHasOwner" name="test_owner_exists" time="0.000529050827026"></testcase></testsuite>

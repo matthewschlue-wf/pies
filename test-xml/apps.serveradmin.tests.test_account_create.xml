@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="apps.serveradmin.tests.test_account_create" tests="1" time="0.404130935669"><testcase classname="apps.serveradmin.tests.test_account_create.CreateAccountTestCase" name="test_demo" time="0.404130935669"></testcase></testsuite>

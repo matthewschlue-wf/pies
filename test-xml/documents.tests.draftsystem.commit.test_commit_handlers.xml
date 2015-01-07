@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="documents.tests.draftsystem.commit.test_commit_handlers" tests="2" time="0.0045018196106"><testcase classname="documents.tests.draftsystem.commit.test_commit_handlers.AddSupportDataTestCase" name="test_add_supportdata_changes_adds_namespaced_SDI" time="0.00188088417053"></testcase><testcase classname="documents.tests.draftsystem.commit.test_commit_handlers.AddSupportDataTestCase" name="test_add_supportdata_changes_adds_namespaced_SDB" time="0.00262093544006"></testcase></testsuite>

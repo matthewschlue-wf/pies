@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="auth.tests.test_timeout" tests="2" time="1.46962380409"><testcase classname="auth.tests.test_timeout.CloneTestCase" name="test_clone" time="0.133817911148"></testcase><testcase classname="auth.tests.test_timeout.TimeoutTestCase" name="test_21253" time="1.33580589294"></testcase></testsuite>

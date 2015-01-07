@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="xbrl.tests.test_xbrl_freeze" tests="1" time="1.17870807648"><testcase classname="xbrl.tests.test_xbrl_freeze.XBRLFreezeTest" name="test_freeze_xbrl_entities" time="1.17870807648"></testcase></testsuite>

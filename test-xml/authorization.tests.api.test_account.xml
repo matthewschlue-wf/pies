@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="authorization.tests.api.test_account" tests="2" time="0.00602889060974"><testcase classname="authorization.tests.api.test_account.TestAccountRequestAuthorized" name="test_permissions_access" time="0.00278496742249"></testcase><testcase classname="authorization.tests.api.test_account.TestAccountRequestAuthorized" name="test_user_authorization" time="0.00324392318726"></testcase></testsuite>

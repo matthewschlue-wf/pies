@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="documents.rest_services.tests.test_supporting_doc_handler" tests="2" time="5.82884287834"><testcase classname="documents.rest_services.tests.test_supporting_doc_handler.REST_API_Supporting_Docs_Test_Case" name="test_get_supporting_doc_file" time="3.4479470253"></testcase><testcase classname="documents.rest_services.tests.test_supporting_doc_handler.REST_API_Supporting_Docs_Test_Case" name="test_get_supporting_doc_json" time="2.38089585304"></testcase></testsuite>

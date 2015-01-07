@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="documents.blackline.tests.test_text_diff_worker" tests="1" time="0.00281810760498"><testcase classname="documents.blackline.tests.test_text_diff_worker.TestTextDiffWorker" name="test_worker_status" time="0.00281810760498"></testcase></testsuite>

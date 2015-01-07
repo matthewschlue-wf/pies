@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="documents.tests.textutils.styles.test_styleGuideService" tests="2" time="0.0011191368103"><testcase classname="documents.tests.textutils.styles.test_styleGuideService.saveStyleGuideTestCase" name="test_save_none_style_guide" time="0.000485181808472"></testcase><testcase classname="documents.tests.textutils.styles.test_styleGuideService.AMFGateWayTestCase" name="test_service" time="0.000633955001831"></testcase></testsuite>

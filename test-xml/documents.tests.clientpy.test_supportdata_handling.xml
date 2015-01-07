@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="documents.tests.clientpy.test_supportdata_handling" tests="2" time="3.47599601746"><testcase classname="documents.tests.clientpy.test_supportdata_handling.DraftStateTestCase" name="test_with_table" time="2.10928487778"></testcase><testcase classname="documents.tests.clientpy.test_supportdata_handling.DraftStateTestCase" name="test_with_table_with_link" time="1.36671113968"></testcase></testsuite>

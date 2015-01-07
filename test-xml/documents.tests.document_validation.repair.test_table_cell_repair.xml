@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="documents.tests.document_validation.repair.test_table_cell_repair" tests="1" time="0.114386081696"><testcase classname="documents.tests.document_validation.repair.test_table_cell_repair.ElementAttributeRepairerTestCase" name="test_make_table_cell_repair_invalid_operations" time="0.114386081696"></testcase></testsuite>

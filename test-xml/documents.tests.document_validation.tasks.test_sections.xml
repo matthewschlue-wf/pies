@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="documents.tests.document_validation.tasks.test_sections" tests="2" time="0.00165605545044"><testcase classname="documents.tests.document_validation.tasks.test_sections.TestValidationTasksSections" name="test_run_validate_section_no_options_runs" time="0.000952005386353"></testcase><testcase classname="documents.tests.document_validation.tasks.test_sections.TestValidationTasksSections" name="test_run_validate_section_with_options_to_disable" time="0.000704050064087"></testcase></testsuite>

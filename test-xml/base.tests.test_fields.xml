@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="base.tests.test_fields" tests="2" time="0.00149989128113"><testcase classname="base.tests.test_fields.CleanTextFieldTestCase" name="test_noramlize_check" time="0.00098991394043"></testcase><testcase classname="base.tests.test_fields.CleanTextFieldTestCase" name="test_normalize" time="0.000509977340698"></testcase></testsuite>

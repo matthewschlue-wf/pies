@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="translate.tests.test_export" tests="2" time="3.76606369019"><testcase classname="translate.tests.test_export.TestWFMLExport" name="test_export_doc_section" time="0.819254875183"></testcase><testcase classname="translate.tests.test_export.TestBigExport" name="test_export_big_section" time="2.946808815"></testcase></testsuite>

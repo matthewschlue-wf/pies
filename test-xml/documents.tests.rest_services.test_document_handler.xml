@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="documents.tests.rest_services.test_document_handler" tests="2" time="0.0503160953522"><testcase classname="documents.tests.rest_services.test_document_handler.DocumentHandlerTestCase" name="test_update_document" time="0.0138771533966"></testcase><testcase classname="documents.tests.rest_services.test_document_handler.DocumentHandlerTestCase" name="test_create_document" time="0.0364389419556"></testcase></testsuite>

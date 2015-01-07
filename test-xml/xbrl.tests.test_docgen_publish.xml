@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="xbrl.tests.test_docgen_publish" tests="2" time="0.412621021271"><testcase classname="xbrl.tests.test_docgen_publish.XBRLPublishTest" name="test_publish" time="0.0687220096588"></testcase><testcase classname="xbrl.tests.test_docgen_publish.XBRLPublishTest" name="test_clean_generation" time="0.343899011612"></testcase></testsuite>

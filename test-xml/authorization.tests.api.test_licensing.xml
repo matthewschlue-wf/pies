@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="authorization.tests.api.test_licensing" tests="2" time="0.00192093849182"><testcase classname="authorization.tests.api.test_licensing.TestLicensing" name="test_valid_creator" time="0.00122094154358"></testcase><testcase classname="authorization.tests.api.test_licensing.TestLicensing" name="test_valid_others" time="0.000699996948242"></testcase></testsuite>

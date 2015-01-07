@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="text_search.tests.api.test_account" tests="2" time="0.00110292434692"><testcase classname="text_search.tests.api.test_account.ValidateSearchForAccountTestCase" name="test_calls_helper_class_validate_account_text_search" time="0.000452041625977"></testcase><testcase classname="text_search.tests.api.test_account.ValidateSearchForAccountTestCase" name="test_account_key_as_none_do_not_call_helper_class_validate_account_text_search" time="0.000650882720947"></testcase></testsuite>

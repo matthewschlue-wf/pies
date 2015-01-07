@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="documents.tests.support_data.test_xml_filter" tests="1" time="0.00978708267212"><testcase classname="documents.tests.support_data.test_xml_filter.ChangeStatusDiscardTest" name="test_sd_with_comments" time="0.00978708267212"></testcase></testsuite>

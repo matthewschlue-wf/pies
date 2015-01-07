@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="documents.tests.draftsystem.commit.test_type_subtype_element_commit" tests="2" time="5.71500992775"><testcase classname="documents.tests.draftsystem.commit.test_type_subtype_element_commit.Test_linked_workbook_2_0" name="test_element_created_with_type_set" time="2.77529287338"></testcase><testcase classname="documents.tests.draftsystem.commit.test_type_subtype_element_commit.Test_linked_workbook_2_0" name="test_element_update_to_type" time="2.93971705437"></testcase></testsuite>

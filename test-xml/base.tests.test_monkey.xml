@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="base.tests.test_monkey" tests="1" time="0.00121402740479"><testcase classname="base.tests.test_monkey.PatchModelsTest" name="test_patch_models" time="0.00121402740479"></testcase></testsuite>

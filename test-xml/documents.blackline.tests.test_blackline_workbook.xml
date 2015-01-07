@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="documents.blackline.tests.test_blackline_workbook" tests="2" time="0.00384998321533"><testcase classname="documents.blackline.tests.test_blackline_workbook.TestInlineTableProcessor" name="test_blackline_workbook" time="0.00341296195984"></testcase><testcase classname="documents.blackline.tests.test_blackline_workbook.TestInlineTableProcessor" name="test_empty_worksheet" time="0.000437021255493"></testcase></testsuite>

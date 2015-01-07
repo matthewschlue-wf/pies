@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="apps.server_composition.service.tests.test_export_service" tests="2" time="0.00089693069458"><testcase classname="apps.server_composition.service.tests.test_export_service.DocumentExportServiceTestCase" name="test_start_pdf_export" time="0.000348091125488"></testcase><testcase classname="apps.server_composition.service.tests.test_export_service.DocumentExportServiceTestCase" name="test_start_docx_export" time="0.000548839569092"></testcase></testsuite>

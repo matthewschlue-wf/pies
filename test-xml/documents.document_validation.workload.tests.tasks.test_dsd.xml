@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="documents.document_validation.workload.tests.tasks.test_dsd" tests="2" time="0.00312185287476"><testcase classname="documents.document_validation.workload.tests.tasks.test_dsd.TestValidationTasksDSD" name="test_run_dsd_fetch_and_queue_with_options_to_disable" time="0.0012948513031"></testcase><testcase classname="documents.document_validation.workload.tests.tasks.test_dsd.TestValidationTasksDSD" name="test_run_dsd_fetch_and_queue_no_options_runs" time="0.00182700157166"></testcase></testsuite>

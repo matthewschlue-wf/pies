@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="auth.tests.test_mod" tests="1" time="0.000782012939453"><testcase classname="auth.tests.test_mod.AMFClassTestCase" name="test_alias" time="0.000782012939453"></testcase></testsuite>

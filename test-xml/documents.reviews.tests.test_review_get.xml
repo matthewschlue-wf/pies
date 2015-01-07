@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="documents.reviews.tests.test_review_get" tests="2" time="0.474386930466"><testcase classname="documents.reviews.tests.test_review_get.ReviewGetTestCase" name="test_multiple_reviews_by_document_keyname" time="0.448844909668"></testcase><testcase classname="documents.reviews.tests.test_review_get.ReviewGetTestCase" name="test_load_review_by_document_keyname" time="0.0255420207977"></testcase></testsuite>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="authentication.tests.test_models" tests="1" time="0.00169777870178"><testcase classname="authentication.tests.test_models.DeviceTokenTestCase" name="test_user_key" time="0.00169777870178"></testcase></testsuite>

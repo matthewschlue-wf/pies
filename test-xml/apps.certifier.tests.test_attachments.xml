@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="apps.certifier.tests.test_attachments" tests="1" time="0.000627994537354"><testcase classname="apps.certifier.tests.test_attachments.UploadAttachmentTest" name="test_feedback" time="0.000627994537354"></testcase></testsuite>

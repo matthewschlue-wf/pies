@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="apps.certifier.tests.test_handler" tests="1" time="0.00276613235474"><testcase classname="apps.certifier.tests.test_handler.TestHandlerUtils" name="test_get_old_signing_url" time="0.00276613235474"></testcase></testsuite>

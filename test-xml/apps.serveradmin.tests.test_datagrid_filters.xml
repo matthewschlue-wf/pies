@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="apps.serveradmin.tests.test_datagrid_filters" tests="1" time="0.0138099193573"><testcase classname="apps.serveradmin.tests.test_datagrid_filters.TestDateFilter" name="test_date_filter_exclude_outside_range" time="0.0138099193573"></testcase></testsuite>

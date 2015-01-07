@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="apps.certifier.tests.test_filters" tests="2" time="0.0491559505463"><testcase classname="apps.certifier.tests.test_filters.TestCertifierCertificationFilter" name="test_term" time="0.0314140319824"></testcase><testcase classname="apps.certifier.tests.test_filters.TestCertifierCertificationFilter" name="test_no_term" time="0.0177419185638"></testcase></testsuite>

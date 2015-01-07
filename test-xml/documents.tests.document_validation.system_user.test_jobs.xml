@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="documents.tests.document_validation.system_user.test_jobs" tests="2" time="0.00130796432495"><testcase classname="documents.tests.document_validation.system_user.test_jobs.test_SystemUserJobMixin" name="test_SystemUserJobMixin_remove" time="0.000416040420532"></testcase><testcase classname="documents.tests.document_validation.system_user.test_jobs.test_SystemUserJobMixin" name="test_SystemUserJobMixin_create" time="0.000891923904419"></testcase></testsuite>

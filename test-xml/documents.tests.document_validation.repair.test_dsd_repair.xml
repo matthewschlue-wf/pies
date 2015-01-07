@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="documents.tests.document_validation.repair.test_dsd_repair" tests="2" time="0.0466687679291"><testcase classname="documents.tests.document_validation.repair.test_dsd_repair.When_make_repair" name="test_make_dsd_repair_gae_errors_reraised" time="0.0238928794861"></testcase><testcase classname="documents.tests.document_validation.repair.test_dsd_repair.When_make_repair" name="test_make_dsd_repair_other_errors_not_reraised" time="0.022775888443"></testcase></testsuite>

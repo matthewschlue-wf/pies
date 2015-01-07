@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="documents.tests.draftsystem.test_deferred_list_2" tests="2" time="0.000982999801636"><testcase classname="documents.tests.draftsystem.test_deferred_list_2.D2Test" name="test_1_0fails_0retry" time="0.000617027282715"></testcase><testcase classname="documents.tests.draftsystem.test_deferred_list_2.D2Test" name="test_3_1fail_1retry" time="0.000365972518921"></testcase></testsuite>

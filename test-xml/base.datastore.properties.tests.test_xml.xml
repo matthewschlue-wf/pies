@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="base.datastore.properties.tests.test_xml" tests="1" time="0.00113821029663"><testcase classname="base.datastore.properties.tests.test_xml.XmlPropertyTest" name="test_decode_with_invalid_input" time="0.00113821029663"></testcase></testsuite>

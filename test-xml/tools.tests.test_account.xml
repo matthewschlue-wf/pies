@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="tools.tests.test_account" tests="1" time="2.58516597748"><testcase classname="tools.tests.test_account.TestAccountFunctional" name="test_lifecycle_pickle" time="2.58516597748"></testcase></testsuite>

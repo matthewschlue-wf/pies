@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="xbrl.tests.test_analytics" tests="3" time="0.0399179458618"><testcase classname="xbrl.tests.test_analytics.AnalyticsTest" name="test_track_event_no_setting_set" time="0.0128679275513"></testcase><testcase classname="xbrl.tests.test_analytics.AnalyticsTest" name="test_track_event_blank_setting_set" time="0.0140061378479"></testcase><testcase classname="xbrl.tests.test_analytics.AnalyticsTest" name="test_track_event_global_setting_set" time="0.0130438804626"></testcase></testsuite>

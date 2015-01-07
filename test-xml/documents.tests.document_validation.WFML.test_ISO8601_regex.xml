@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="documents.tests.document_validation.WFML.test_ISO8601_regex" tests="2" time="0.000998973846436"><testcase classname="documents.tests.document_validation.WFML.test_ISO8601_regex.ISO8601ReTestCase" name="test_when_strings_match" time="0.00037407875061"></testcase><testcase classname="documents.tests.document_validation.WFML.test_ISO8601_regex.ISO8601ReTestCase" name="test_when_strings_do_not_match" time="0.000624895095825"></testcase></testsuite>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="documents.tests.cron.test_comment_notification" tests="2" time="0.0523002147675"><testcase classname="documents.tests.cron.test_comment_notification.CleanupTestCase" name="test_run" time="0.0355200767517"></testcase><testcase classname="documents.tests.cron.test_comment_notification.CleanupTestCase" name="test_init" time="0.0167801380157"></testcase></testsuite>

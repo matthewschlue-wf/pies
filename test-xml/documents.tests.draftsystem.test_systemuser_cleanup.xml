@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="documents.tests.draftsystem.test_systemuser_cleanup" tests="1" time="0.247792005539"><testcase classname="documents.tests.draftsystem.test_systemuser_cleanup.TestDocumentRevisionCleanup" name="test_clean_doc_revs_who" time="0.247792005539"></testcase></testsuite>

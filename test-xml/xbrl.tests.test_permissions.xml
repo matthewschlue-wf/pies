@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="xbrl.tests.test_permissions" tests="1" time="0.407469987869"><testcase classname="xbrl.tests.test_permissions.BaseGetPermissionsTestCase" name="test_xbrl_permissions" time="0.407469987869"></testcase></testsuite>

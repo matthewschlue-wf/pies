@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="documents.tests.document_validation.schema.test_integration" tests="1" time="0.000550031661987"><testcase classname="documents.tests.document_validation.schema.test_integration.WhenValidatingADocWithTwoSections" name="test_validating_doc_schema" time="0.000550031661987"></testcase></testsuite>

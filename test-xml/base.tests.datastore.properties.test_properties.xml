@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="base.tests.datastore.properties.test_properties" tests="1" time="0.000723123550415"><testcase classname="base.tests.datastore.properties.test_properties.TestLowercaseSpacelessStringPropertyDecorator" name="test_validate_text_format" time="0.000723123550415"></testcase></testsuite>

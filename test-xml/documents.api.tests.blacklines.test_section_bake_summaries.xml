@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="documents.api.tests.blacklines.test_section_bake_summaries" tests="2" time="0.014271736145"><testcase classname="documents.api.tests.blacklines.test_section_bake_summaries.TestSectionBakeSummaries" name="test_run_section_bake_summary" time="0.008544921875"></testcase><testcase classname="documents.api.tests.blacklines.test_section_bake_summaries.TestSectionBakeSummaries" name="test_failed_run_section_bake_summary" time="0.00572681427002"></testcase></testsuite>

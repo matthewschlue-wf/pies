@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="auth.tests.services.test_groupsService" tests="2" time="0.134272575378"><testcase classname="auth.tests.services.test_groupsService.AMFGatewayTestCase" name="test_service" time="0.000431776046753"></testcase><testcase classname="auth.tests.services.test_groupsService.GroupServiceTestCase" name="test_groups_service" time="0.133840799332"></testcase></testsuite>

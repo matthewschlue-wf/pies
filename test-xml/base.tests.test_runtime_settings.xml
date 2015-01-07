@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="base.tests.test_runtime_settings" tests="1" time="0.0272309780121"><testcase classname="base.tests.test_runtime_settings.RuntimeSettingsTestCase" name="test_runtime_settings" time="0.0272309780121"></testcase></testsuite>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="auth.api.tests.test_system_user" tests="2" time="0.333858251572"><testcase classname="auth.api.tests.test_system_user.SystemUserSimpleCleanupTestCase" name="test_remove_system_user" time="0.170083045959"></testcase><testcase classname="auth.api.tests.test_system_user.SystemUserSimpleCleanupTestCase" name="test_remove_system_user_by_membership_id" time="0.163775205612"></testcase></testsuite>

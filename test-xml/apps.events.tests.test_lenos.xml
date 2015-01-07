@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="apps.events.tests.test_lenos" tests="1" time="0.0265967845917"><testcase classname="apps.events.tests.test_lenos.TestLenos" name="test_build_lenos_saml_attributes" time="0.0265967845917"></testcase></testsuite>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="apps.certifier.tests.internal.roles.test_approver" tests="2" time="0.00440287590027"><testcase classname="apps.certifier.tests.internal.roles.test_approver.ApproverTests" name="test_get_approvers_from_cert" time="0.00186395645142"></testcase><testcase classname="apps.certifier.tests.internal.roles.test_approver.ApproverTests" name="test_get_approver_given_cert_and_user" time="0.00253891944885"></testcase></testsuite>

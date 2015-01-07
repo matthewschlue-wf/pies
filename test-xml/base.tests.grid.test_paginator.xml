@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="base.tests.grid.test_paginator" tests="2" time="0.0213968753815"><testcase classname="base.tests.grid.test_paginator.PaginatorTestCase" name="test_paginator" time="0.0113599300385"></testcase><testcase classname="base.tests.grid.test_paginator.PaginatorTestCase" name="test_paginator_with_count" time="0.010036945343"></testcase></testsuite>

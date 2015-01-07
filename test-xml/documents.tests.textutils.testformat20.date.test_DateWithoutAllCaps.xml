@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="documents.tests.textutils.testformat20.date.test_DateWithoutAllCaps" tests="1" time="0.0113248825073"><testcase classname="documents.tests.textutils.testformat20.date.test_DateWithoutAllCaps.Date_WithoutAllCaps" name="test_format" time="0.0113248825073"></testcase></testsuite>

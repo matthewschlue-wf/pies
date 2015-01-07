@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="authentication.tests.api.test_captcha" tests="1" time="0.000636100769043"><testcase classname="authentication.tests.api.test_captcha.ExportedTestCase" name="test_all" time="0.000636100769043"></testcase></testsuite>

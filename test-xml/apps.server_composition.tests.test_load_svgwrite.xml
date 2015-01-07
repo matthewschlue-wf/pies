@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="apps.server_composition.tests.test_load_svgwrite" tests="1" time="0.0475339889526"><testcase classname="apps.server_composition.tests.test_load_svgwrite.TestSvgWriteLoading" name="test_load_svgwrite" time="0.0475339889526"></testcase></testsuite>

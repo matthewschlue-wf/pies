@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="apps.certifier.tests.test_reports" tests="2" time="2.56735396385"><testcase classname="apps.certifier.tests.test_reports.ExceptionCommentThreadProcessorTests" name="test_ExceptionCommentThreadProcessor" time="0.845183134079"></testcase><testcase classname="apps.certifier.tests.test_reports.TrackerCommentThreadProcessorTests" name="test_TrackerCommentThreadProcessor" time="1.72217082977"></testcase></testsuite>

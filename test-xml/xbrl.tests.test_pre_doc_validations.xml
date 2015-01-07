@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="xbrl.tests.test_pre_doc_validations" tests="1" time="0.0664350986481"><testcase classname="xbrl.tests.test_pre_doc_validations.XBRLPresentationLinkbaseValidationTests" name="test_remove_usages" time="0.0664350986481"></testcase></testsuite>

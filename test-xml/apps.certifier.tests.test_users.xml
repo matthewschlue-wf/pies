@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="apps.certifier.tests.test_users" tests="2" time="0.0149891376495"><testcase classname="apps.certifier.tests.test_users.UsersViewTestCase" name="test_grid_render_selection_has_admin_perm" time="0.00781106948853"></testcase><testcase classname="apps.certifier.tests.test_users.UsersViewTestCase" name="test_grid_render_selection_read_only" time="0.00717806816101"></testcase></testsuite>

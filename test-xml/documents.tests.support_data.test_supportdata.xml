@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="documents.tests.support_data.test_supportdata" tests="2" time="0.449262857437"><testcase classname="documents.tests.support_data.test_supportdata.LockTextLinkCase" name="test_successful_lock" time="0.444208860397"></testcase><testcase classname="documents.tests.support_data.test_supportdata.LockTextLinkCase" name="test_unsuccessful_lock" time="0.00505399703979"></testcase></testsuite>

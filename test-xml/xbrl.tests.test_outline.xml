@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<testsuite errors="0" failures="0" name="xbrl.tests.test_outline" tests="1" time="0.11697602272"><testcase classname="xbrl.tests.test_outline.XBRLOutlineTest" name="test_save_xbrl_outline_timestamp" time="0.11697602272"></testcase></testsuite>
+<testsuite errors="0" failures="0" name="xbrl.tests.test_outline" tests="1" time="0.11070394516"><testcase classname="xbrl.tests.test_outline.XBRLOutlineTest" name="test_save_xbrl_outline_timestamp" time="0.11070394516"></testcase></testsuite>

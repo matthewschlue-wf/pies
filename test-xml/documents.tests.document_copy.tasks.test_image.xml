@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="documents.tests.document_copy.tasks.test_image" tests="1" time="0.00979089736938"><testcase classname="documents.tests.document_copy.tasks.test_image.TestImageCopy" name="test_copy_image_successfully" time="0.00979089736938"></testcase></testsuite>

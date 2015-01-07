@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="documents.tests.clientpy.test_document_tree" tests="2" time="0.00245118141174"><testcase classname="documents.tests.clientpy.test_document_tree.MultipleSection2TreeTestCase" name="test_get_node_parent_and_index" time="0.00149202346802"></testcase><testcase classname="documents.tests.clientpy.test_document_tree.MultipleSection2TreeTestCase" name="test_list_items_top_down" time="0.000959157943726"></testcase></testsuite>

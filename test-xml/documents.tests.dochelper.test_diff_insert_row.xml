@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="documents.tests.dochelper.test_diff_insert_row" tests="2" time="0.0207152366638"><testcase classname="documents.tests.dochelper.test_diff_insert_row.TestDiffSection" name="test_insert_row_workbook" time="0.00976419448853"></testcase><testcase classname="documents.tests.dochelper.test_diff_insert_row.TestDiffSection" name="test_insert_row" time="0.0109510421753"></testcase></testsuite>

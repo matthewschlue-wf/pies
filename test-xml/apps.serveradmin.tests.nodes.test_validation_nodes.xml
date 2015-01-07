@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="apps.serveradmin.tests.nodes.test_validation_nodes" tests="2" time="1.07367396355"><testcase classname="apps.serveradmin.tests.nodes.test_validation_nodes.TestValidationNodeMixin" name="test_create_url_document_not_found" time="0.00383996963501"></testcase><testcase classname="apps.serveradmin.tests.nodes.test_validation_nodes.TestValidationNodeMixin" name="test_create_url_valid_document" time="1.06983399391"></testcase></testsuite>

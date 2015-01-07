@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="documents.tests.document_validation.repair.test_sdi_repair" tests="2" time="0.272035121918"><testcase classname="documents.tests.document_validation.repair.test_sdi_repair.SectionRepairerSDITestCase" name="test_make_sdi_repair_update" time="0.133985042572"></testcase><testcase classname="documents.tests.document_validation.repair.test_sdi_repair.SectionRepairerSDITestCase" name="test_make_sdi_repair_invalid_operations" time="0.138050079346"></testcase></testsuite>

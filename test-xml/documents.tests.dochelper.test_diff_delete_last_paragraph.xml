@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="documents.tests.dochelper.test_diff_delete_last_paragraph" tests="1" time="0.00620412826538"><testcase classname="documents.tests.dochelper.test_diff_delete_last_paragraph.TestDiffSection" name="test_delete_last_paragraph" time="0.00620412826538"></testcase></testsuite>

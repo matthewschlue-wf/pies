@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="apps.events.tests.test_cvent" tests="1" time="0.0148389339447"><testcase classname="apps.events.tests.test_cvent.TestCvent" name="test_build_cvent_saml_attributes" time="0.0148389339447"></testcase></testsuite>

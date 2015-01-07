@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="tests.test_gae_utility_handler" tests="1" time="0.00988101959229"><testcase classname="tests.test_gae_utility_handler.TestGAEUtilityHandler" name="test_shell_page" time="0.00988101959229"></testcase></testsuite>

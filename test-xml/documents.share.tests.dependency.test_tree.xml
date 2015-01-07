@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="documents.share.tests.dependency.test_tree" tests="2" time="0.0011990070343"><testcase classname="documents.share.tests.dependency.test_tree.TreeChecker_iter_new_ancestor_section_ids_test" name="test_iters_empty" time="0.000885963439941"></testcase><testcase classname="documents.share.tests.dependency.test_tree.TreeChecker_iter_new_ancestor_section_ids_test" name="test_iters_new_section_ids" time="0.00031304359436"></testcase></testsuite>

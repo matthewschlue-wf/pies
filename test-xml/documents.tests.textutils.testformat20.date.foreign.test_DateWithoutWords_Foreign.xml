@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="documents.tests.textutils.testformat20.date.foreign.test_DateWithoutWords_Foreign" tests="1" time="0.0175929069519"><testcase classname="documents.tests.textutils.testformat20.date.foreign.test_DateWithoutWords_Foreign.Date_ForeignWithoutAllCaps" name="test_format" time="0.0175929069519"></testcase></testsuite>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="documents.blackline.tests.test_diff_span" tests="3" time="0.00196814537048"><testcase classname="documents.blackline.tests.test_diff_span.TestDiffSpan" name="test_clone" time="0.000478982925415"></testcase><testcase classname="documents.blackline.tests.test_diff_span.TestDiffSpan" name="test_build_words" time="0.00112700462341"></testcase><testcase classname="documents.blackline.tests.test_diff_span.TestDiffSpan" name="test_init" time="0.000362157821655"></testcase></testsuite>

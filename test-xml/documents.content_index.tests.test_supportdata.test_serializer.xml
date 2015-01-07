@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="documents.content_index.tests.test_supportdata.test_serializer" tests="1" time="0.00144410133362"><testcase classname="documents.content_index.tests.test_supportdata.test_serializer.SupportDataSerializerTestCase" name="test_serialize_support_data" time="0.00144410133362"></testcase></testsuite>

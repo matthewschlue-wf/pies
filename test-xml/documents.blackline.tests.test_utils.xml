@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="documents.blackline.tests.test_utils" tests="1" time="0.00348687171936"><testcase classname="documents.blackline.tests.test_utils.TestUtils" name="test_create_blackline_user" time="0.00348687171936"></testcase></testsuite>

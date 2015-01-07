@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="documents.tests.dochelper.test_diff_adobe_server" tests="1" time="0.0350320339203"><testcase classname="documents.tests.dochelper.test_diff_adobe_server.TestDiffSection" name="test_adobe_server" time="0.0350320339203"></testcase></testsuite>

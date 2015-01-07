@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="apps.certifier.tests.test_base" tests="2" time="0.0501058101654"><testcase classname="apps.certifier.tests.test_base.PreferenceTests" name="test_set_preferences" time="0.0263397693634"></testcase><testcase classname="apps.certifier.tests.test_base.PreferenceTests" name="test_get_preferences" time="0.023766040802"></testcase></testsuite>

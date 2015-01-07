@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="translate.tests.cron.test_cleanup" tests="2" time="0.325330972672"><testcase classname="translate.tests.cron.test_cleanup.ExportResultTestCase" name="test_fresh" time="0.248672962189"></testcase><testcase classname="translate.tests.cron.test_cleanup.ExportResultTestCase" name="test_init" time="0.0766580104828"></testcase></testsuite>

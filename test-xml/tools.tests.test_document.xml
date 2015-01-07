@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="tools.tests.test_document" tests="3" time="7.65555381775"><testcase classname="tools.tests.test_document.TestDocumentFunctional" name="test_lifecycle_pickle" time="2.68524909019"></testcase><testcase classname="tools.tests.test_document.TestDocumentFunctional" name="test_badutf8" time="3.12727284431"></testcase><testcase classname="tools.tests.test_document.TestDocumentFunctional" name="test_lifecycle_pb" time="1.84303188324"></testcase></testsuite>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="documents.document_copy.tasks.tests.test_data_collection" tests="2" time="0.0811789035797"><testcase classname="documents.document_copy.tasks.tests.test_data_collection.AggregateDCCopyDocs" name="test_aggregate_called_for_dc_docs" time="0.0490770339966"></testcase><testcase classname="documents.document_copy.tasks.tests.test_data_collection.AggregateDCCopyDocs" name="test_aggregate_not_called_if_no_dc_docs" time="0.0321018695831"></testcase></testsuite>

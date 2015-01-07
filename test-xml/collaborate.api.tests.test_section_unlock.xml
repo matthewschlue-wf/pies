@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="collaborate.api.tests.test_section_unlock" tests="2" time="9.82519125938"><testcase classname="collaborate.api.tests.test_section_unlock.UnlockSectionsTestCase" name="test_unlock_across_document_list" time="4.93092918396"></testcase><testcase classname="collaborate.api.tests.test_section_unlock.UnlockSectionsTestCase" name="test_unlock_across_documents" time="4.89426207542"></testcase></testsuite>

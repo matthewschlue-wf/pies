@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="tools.tests.test_pb" tests="1" time="0.00796985626221"><testcase classname="tools.tests.test_pb.test_Parent" name="test_pb_roundtrip" time="0.00796985626221"></testcase></testsuite>

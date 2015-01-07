@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="documents.tests.document_validation.system_user.test_system_membership_collision" tests="1" time="0.0437729358673"><testcase classname="documents.tests.document_validation.system_user.test_system_membership_collision.TestMakeRepairSystemMembershipIDCollision" name="test_create_system_membership_with_collision" time="0.0437729358673"></testcase></testsuite>

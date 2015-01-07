@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="base.tests.middleware.test_common" tests="3" time="0.040381193161"><testcase classname="base.tests.middleware.test_common.SettingsTestCase" name="test_middleware" time="0.000440120697021"></testcase><testcase classname="base.tests.middleware.test_common.CommonMiddlewareTestCase" name="test_response" time="0.000524997711182"></testcase><testcase classname="base.tests.middleware.test_common.CommonMiddlewareTestCase" name="test_request" time="0.0394160747528"></testcase></testsuite>

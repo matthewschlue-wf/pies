@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="projects.tests.test_project_service_permissions" tests="2" time="0.823357820511"><testcase classname="projects.tests.test_project_service_permissions.TestProjectServicePermissions" name="test_exerciseProjectService" time="0.728252887726"></testcase><testcase classname="projects.tests.test_project_service_permissions.TestProjectDenyPermissions" name="test_deny_items" time="0.095104932785"></testcase></testsuite>

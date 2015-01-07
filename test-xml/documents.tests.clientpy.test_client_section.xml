@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="documents.tests.clientpy.test_client_section" tests="1" time="3.7193479538"><testcase classname="documents.tests.clientpy.test_client_section.When_table_cells_do_not_have_lbls" name="test_should_have_table_cell_values" time="3.7193479538"></testcase></testsuite>

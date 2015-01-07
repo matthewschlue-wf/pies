@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="documents.tests.outline.test_tree" tests="3" time="0.00304102897644"><testcase classname="documents.tests.outline.test_tree.TreeTestCase" name="test_clean_draft_xml" time="0.00164914131165"></testcase><testcase classname="documents.tests.outline.test_tree.TreeTestCase" name="test_nested_removal" time="0.000824928283691"></testcase><testcase classname="documents.tests.outline.test_tree.TreeTestCase" name="test_string_conversion" time="0.000566959381104"></testcase></testsuite>

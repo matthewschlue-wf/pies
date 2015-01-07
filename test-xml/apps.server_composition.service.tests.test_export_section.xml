@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="apps.server_composition.service.tests.test_export_section" tests="1" time="0.000351905822754"><testcase classname="apps.server_composition.service.tests.test_export_section.ExportSectionServiceTestCase" name="test_export_section_post" time="0.000351905822754"></testcase></testsuite>

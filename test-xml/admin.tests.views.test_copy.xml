@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="admin.tests.views.test_copy" tests="3" time="0.00287389755249"><testcase classname="admin.tests.views.test_copy.CopyStatusViewTestCase" name="test_cannot_access" time="0.00115895271301"></testcase><testcase classname="admin.tests.views.test_copy.CopyStatusViewTestCase" name="test_copy_enabled_can_access" time="0.000757932662964"></testcase><testcase classname="admin.tests.views.test_copy.CopyStatusViewTestCase" name="test_support_can_access" time="0.000957012176514"></testcase></testsuite>

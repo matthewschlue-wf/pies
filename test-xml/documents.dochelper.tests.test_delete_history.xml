@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="documents.dochelper.tests.test_delete_history" tests="1" time="0.095782995224"><testcase classname="documents.dochelper.tests.test_delete_history.RemoveReferenceTestCase" name="test_set_correct_reference" time="0.095782995224"></testcase></testsuite>

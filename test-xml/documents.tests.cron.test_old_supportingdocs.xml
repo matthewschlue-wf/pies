@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="documents.tests.cron.test_old_supportingdocs" tests="3" time="0.206090211868"><testcase classname="documents.tests.cron.test_old_supportingdocs.CleanupTestCase" name="test_run" time="0.117802143097"></testcase><testcase classname="documents.tests.cron.test_old_supportingdocs.CleanupTestCase" name="test_run_wblobstore" time="0.0600500106812"></testcase><testcase classname="documents.tests.cron.test_old_supportingdocs.CleanupTestCase" name="test_init" time="0.0282380580902"></testcase></testsuite>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="documents.tests.document_copy.test_context" tests="2" time="0.000859022140503"><testcase classname="documents.tests.document_copy.test_context.DocumentContextTestCase" name="test_generate_copy_tree_keyname" time="0.000441074371338"></testcase><testcase classname="documents.tests.document_copy.test_context.DocumentContextTestCase" name="test_create_document_revision_keyname" time="0.000417947769165"></testcase></testsuite>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="documents.tests.document_copy.tasks.test_job" tests="2" time="0.00242710113525"><testcase classname="documents.tests.document_copy.tasks.test_job.GetJobTestCase" name="test_invalid_job_type" time="0.000778198242188"></testcase><testcase classname="documents.tests.document_copy.tasks.test_job.GetJobTestCase" name="test_missing_job" time="0.00164890289307"></testcase></testsuite>

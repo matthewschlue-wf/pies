@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="documents.tests.document_validation.admin.test_validation_admin" tests="2" time="0.0418512821198"><testcase classname="documents.tests.document_validation.admin.test_validation_admin.TestDocumentValidationAdminPages" name="test__convert_issue" time="0.0218341350555"></testcase><testcase classname="documents.tests.document_validation.admin.test_validation_admin.TestDocumentValidationAdminPages" name="test__convert_issue_with_unicode_target" time="0.0200171470642"></testcase></testsuite>

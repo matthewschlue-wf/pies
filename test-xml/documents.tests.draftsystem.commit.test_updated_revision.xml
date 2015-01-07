@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="documents.tests.draftsystem.commit.test_updated_revision" tests="1" time="7.35793113708"><testcase classname="documents.tests.draftsystem.commit.test_updated_revision.UpdatedRevisionTestCase" name="test_updated_revision" time="7.35793113708"></testcase></testsuite>

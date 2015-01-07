@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="apps.filing.tests.test_signals" tests="2" time="3.47954010963"><testcase classname="apps.filing.tests.test_signals.TestFilingSignals" name="test_revision_abort" time="1.51256203651"></testcase><testcase classname="apps.filing.tests.test_signals.TestFilingSignals" name="test_update_denormalized_transactions" time="1.96697807312"></testcase></testsuite>

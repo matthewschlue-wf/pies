@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="apps.home.tests.test_decorators" tests="2" time="0.00124311447144"><testcase classname="apps.home.tests.test_decorators.SecureHomeApiDecoratorTestCase" name="test_raises_not_authorized" time="0.00067400932312"></testcase><testcase classname="apps.home.tests.test_decorators.SecureHomeApiDecoratorTestCase" name="test_success" time="0.000569105148315"></testcase></testsuite>

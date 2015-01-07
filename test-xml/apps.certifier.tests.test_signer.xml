@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="apps.certifier.tests.test_signer" tests="2" time="0.00182509422302"><testcase classname="apps.certifier.tests.test_signer.CertifierSignerTests" name="test_is_skipped" time="0.000669002532959"></testcase><testcase classname="apps.certifier.tests.test_signer.CertifierSignerTests" name="test_is_completed" time="0.00115609169006"></testcase></testsuite>

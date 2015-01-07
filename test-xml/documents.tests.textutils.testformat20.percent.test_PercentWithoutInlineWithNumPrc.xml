@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="documents.tests.textutils.testformat20.percent.test_PercentWithoutInlineWithNumPrc" tests="1" time="21.6204369068"><testcase classname="documents.tests.textutils.testformat20.percent.test_PercentWithoutInlineWithNumPrc.Percent_WithoutInlineWithNumPrc" name="test_format" time="21.6204369068"></testcase></testsuite>

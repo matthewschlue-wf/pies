@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="apps.external_services.tests.test_pdf" tests="1" time="4.03914499283"><testcase classname="apps.external_services.tests.test_pdf.RenderedPagesServiceTestCase" name="test_generate_pdf_pages" time="4.03914499283"></testcase></testsuite>

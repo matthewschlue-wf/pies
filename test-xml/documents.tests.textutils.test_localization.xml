@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="documents.tests.textutils.test_localization" tests="1" time="0.000648021697998"><testcase classname="documents.tests.textutils.test_localization.LocalizationTest" name="test_locales" time="0.000648021697998"></testcase></testsuite>

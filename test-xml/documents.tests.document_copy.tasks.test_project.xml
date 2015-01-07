@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="documents.tests.document_copy.tasks.test_project" tests="2" time="0.00315690040588"><testcase classname="documents.tests.document_copy.tasks.test_project.When_project_copy_notify_task" name="test_project_copy_notify_task_job_failed" time="0.0013370513916"></testcase><testcase classname="documents.tests.document_copy.tasks.test_project.When_project_copy_notify_task" name="test_project_copy_notify_task" time="0.00181984901428"></testcase></testsuite>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="documents.tests.test_elements" tests="1" time="0.181186914444"><testcase classname="documents.tests.test_elements.TestElementsTestCase" name="test_get_reported_elements" time="0.181186914444"></testcase></testsuite>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="documents.tests.services.test_docHelperService" tests="1" time="0.0677161216736"><testcase classname="documents.tests.services.test_docHelperService.TestDocHelperService" name="test_create_supporting_document" time="0.0677161216736"></testcase></testsuite>

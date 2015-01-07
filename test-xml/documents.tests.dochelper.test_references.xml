@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="documents.tests.dochelper.test_references" tests="2" time="0.261834859848"><testcase classname="documents.tests.dochelper.test_references.TestAddSectionReferences" name="test_add_existing_section_references" time="0.114682912827"></testcase><testcase classname="documents.tests.dochelper.test_references.TestAddSectionReferences" name="test_add_new_section_references" time="0.147151947021"></testcase></testsuite>
