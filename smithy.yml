@@ -1,7 +1,7 @@
 project: python
 runtime: 2.7
 
-runner_image: docker.webfilings.org/joshuagoodson/smithy-builder:DEVOPS-1826-dart-9
+runner_image: docker.webfilings.org/devops/smithy-builder:1.8.0
 
 requirements:
   - requirements.txt
