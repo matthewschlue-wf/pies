@@ -1,7 +1,7 @@
 project: python
 runtime: 2.7
 
-runner_image: docker.webfilings.org/devops/smithy-builder:1.8.0
+runner_image: docker.webfilings.org/devops/smithy-builder:1.9.2
 
 requirements:
   - requirements.txt
