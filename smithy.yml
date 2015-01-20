@@ -1,7 +1,7 @@
 project: python
 runtime: 2.7
 
-runner_image: docker.webfilings.org/matthewschlue/dart:devops1826-rc1
+runner_image: docker.webfilings.org/matthewschlue/dart:devops1826-rc5
 
 requirements:
   - requirements.txt
