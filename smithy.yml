@@ -1,4 +1,5 @@
-project: python
+project: cdn
+language: python
 runtime: 2.7
 
 runner_image: docker.webfilings.org/matthewschlue/dart:devops1826-rc5
