@@ -14,7 +14,7 @@ def get_test_requires():
 
 setup_args = dict(
     name='pies',
-    version='0.1.16',
+    version='0.1.17',
     packages=find_packages(),
     namespace_packages=['pies'],
     install_requires=get_install_requires(),
