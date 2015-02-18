@@ -39,4 +39,4 @@ after_script:
 #  - test-reports/*.xml
 
 artifacts:
-  - dist/**/*
+  - static/**/*
