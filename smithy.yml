@@ -1,4 +1,4 @@
-project: cdn
+project: static
 language: python
 runtime: 2.7
 
@@ -38,5 +38,3 @@ after_script:
 #test_reports:
 #  - test-reports/*.xml
 
-artifacts:
-  - static/**/*
