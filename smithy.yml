@@ -1,7 +1,7 @@
 project: static
 
 # runner_image: docker.webfilings.org/matthewschlue/dart:devops1826-rc5
-runner_image: docker.webfilings.org/matthewschlue/smithy-runner:cdn-rc3
+#runner_image: docker.webfilings.org/matthewschlue/smithy-runner:cdn-rc3
 
 requirements:
   - requirements.txt
