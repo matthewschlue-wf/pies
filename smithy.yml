@@ -1,6 +1,6 @@
 project: static
 language: python
-cdn_directory: 'static'
+cdn_directory: static
 
 # runner_image: docker.webfilings.org/matthewschlue/dart:devops1826-rc5
 #runner_image: docker.webfilings.org/matthewschlue/smithy-runner:cdn-rc3
