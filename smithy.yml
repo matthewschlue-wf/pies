@@ -1,9 +1,8 @@
 project: static
-language: python
-cdn_directory: static
+#language: python
 
 # runner_image: docker.webfilings.org/matthewschlue/dart:devops1826-rc5
-#runner_image: docker.webfilings.org/matthewschlue/smithy-runner:cdn-rc3
+runner_image: docker.webfilings.org/matthewschlue/smithy-runner:cdn-rc5
 
 requirements:
   #- requirements.txt
