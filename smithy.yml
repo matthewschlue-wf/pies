@@ -1,5 +1,5 @@
 project: static
-language: python
+language: static
 
 # runner_image: docker.webfilings.org/matthewschlue/dart:devops1826-rc5
 runner_image: docker.webfilings.org/matthewschlue/smithy-runner:devops2079-cdn-5
@@ -14,8 +14,8 @@ env:
   - EAT_PIES_SLOWLY=2
 
 script:
-  - nosetests
-  - python setup.py sdist
+#  - nosetests
+#  - python setup.py sdist
   - 'echo "ALL UR WEBFILINGS ARE BELONG TO WORKIVA: $HOME"'
   - ls -al $HOME
   - touch $HOME/pies.txt
