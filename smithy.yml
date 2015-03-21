@@ -2,7 +2,7 @@ project: static
 language: static
 
 # runner_image: docker.webfilings.org/matthewschlue/dart:devops1826-rc5
-runner_image: docker.webfilings.org/matthewschlue/smithy-runner:devops2079-cdn-6
+runner_image: docker.webfilings.org/matthewschlue/smithy-runner:devops2079-cdn-7
 
 requirements:
   #- requirements.txt
