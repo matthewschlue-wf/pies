@@ -19,6 +19,7 @@ script:
   - 'echo "ALL UR WEBFILINGS ARE BELONG TO WORKIVA: $HOME"'
   - ls -al $HOME
   - touch $HOME/pies.txt
+  - sleep 30
   - 'echo "TEST REPORTS DIR: $TEST_REPORTS_DIR"'
   - mkdir test-reports || true
   - cp test-xml/*.xml test-reports/
