@@ -24,6 +24,9 @@ script:
   - cp test-xml/*.xml test-reports/
   - find . -type f -ls
   - ls -al $TEST_REPORTS_DIR
+
+artifacts:
+  - setup.py
   
 test_reports: testing
   - ls -al test-reports/
