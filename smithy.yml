@@ -11,7 +11,7 @@ requirements:
 env:
   - LIKES=PIES
   - EATS=TASTY_PIES
-  - EAT_PIES_SLOWLY=2
+  - EAT_PIES_SLOWLY=15
 
 script:
 #  - nosetests
