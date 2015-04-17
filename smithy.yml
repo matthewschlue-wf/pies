@@ -6,5 +6,5 @@ requirements:
   - requirements_dev.txt
 
 script:
-  - sleep 120
+  - sleep 360
   
