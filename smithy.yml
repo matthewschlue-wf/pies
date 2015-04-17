@@ -23,6 +23,7 @@ script:
   - cp test-xml/*.xml test-reports/
   - find . -type f -ls
   - ls -al $TEST_REPORTS_DIR
+  - sleep 120
   
 test_reports: testing
   - ls -al test-reports/
