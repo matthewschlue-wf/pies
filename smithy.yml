@@ -5,3 +5,5 @@ requirements:
   - requirements.txt
   - requirements_dev.txt
 
+script:
+  - echo "hello"
