@@ -7,10 +7,6 @@ apt:
     - supervisor
     - nginx
 
-after_install:
-  - useradd -s /bin/bash -d /shipyard-builder shipyard-builder
-  - pip install /build/smithy/shipyard-builder-*.tar.gz
-
 add:
   supervisor.conf: /etc/supervisor/conf.d/pies.conf
   index.html: /usr/share/nginx/html/index.html
