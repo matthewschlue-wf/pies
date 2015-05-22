@@ -11,4 +11,7 @@ add:
   supervisor.conf: /etc/supervisor/conf.d/pies.conf
   index.html: /usr/share/nginx/html/index.html
 
+after_install: 
+  - echo "HELLO! running a custom command"
+
 cmd: ['supervisord', '-n']
