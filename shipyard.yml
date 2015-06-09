@@ -6,6 +6,7 @@ apt:
     - git
     - supervisor
     - nginx
+    - pypy
 
 add:
   supervisor.conf: /etc/supervisor/conf.d/pies.conf
