@@ -8,8 +8,6 @@ apt:
     - nginx
     - pypy
 
-npm:
-
 add:
   supervisor.conf: /etc/supervisor/conf.d/pies.conf
   index.html: /usr/share/nginx/html/index.html
