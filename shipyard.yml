@@ -1,20 +1,14 @@
+---
 base: 'ubuntu/trusty'
 
-apt:
+python27:
   packages:
-    - build-essential
-    - git
-    - supervisor
-    - nginx
-    - pypy
+    falcon
+    gunicorn
 
-npm:
+add: 
+  app.py: /root/app.py
 
-add:
-  supervisor.conf: /etc/supervisor/conf.d/pies.conf
-  index.html: /usr/share/nginx/html/index.html
+workdir: /root/
 
-after_install: 
-  - echo "HELLO! running a custom command"
-
-cmd: ['supervisord', '-n']
+cmd ['gunicorn', 'app:api']

@@ -1,9 +1,6 @@
-project: python
-runtime: 2.7
+project: python 
+language: python 
 
-requirements:
-  - requirements.txt
-  - requirements_dev.txt
 
 script:
-  - echo "hello"
+  - echo 'hello'
