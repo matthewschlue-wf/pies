@@ -11,4 +11,4 @@ add:
 
 workdir: /root/
 
-cmd ['gunicorn', 'app:api']
+cmd: ['gunicorn', 'app:api']
