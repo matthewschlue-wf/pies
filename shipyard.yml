@@ -3,8 +3,8 @@ base: 'ubuntu/trusty'
 
 python27:
   packages:
-    falcon
-    gunicorn
+    - falcon
+    - gunicorn
 
 add: 
   app.py: /root/app.py
