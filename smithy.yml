@@ -1,6 +1,9 @@
 project: python 
+runtime: 3.4
 language: python 
 
+requirements:
+  - numpy
 
 script:
   - echo 'hello'
