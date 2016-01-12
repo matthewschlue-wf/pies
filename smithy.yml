@@ -2,7 +2,7 @@ project: python
 language: python 
 runtime: 3.4
 
-runner_image: docker.webfilings.org/devops/smithy-runner:python34-326
+runner_image: docker.webfilings.org/matthewschlue-wf/smithy-runner:pip34
 
 requirements:
   - numpy
