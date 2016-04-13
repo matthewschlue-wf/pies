@@ -5,5 +5,5 @@ runtime: 3.4
 runner_image: docker.webfilings.org/matthewschluewf/smithy-runner:pip34
 
 script:
-  - sleep 45
+  - sleep 50
   - echo 'hello'
