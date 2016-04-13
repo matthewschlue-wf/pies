@@ -8,5 +8,5 @@ requirements:
   - numpy
 
 script:
-  - sleep 30
+  - sleep 45
   - echo 'hello'
