@@ -22,17 +22,17 @@ script:
   - find . -type f -ls
   - ls -al $TEST_REPORTS_DIR
   
-test_reports: testing
-  - ls -al test-reports/
-  - ls -al $HOME
+# test_reports: testing
+#   - ls -al test-reports/
+#   - ls -al $HOME
 
 after_script:
   - tar -C docs -cvzf ./pie-help.tar.gz html
 
 # documentation: pie-help.tar.gz
 
-test_reports:
-  - test-reports/*.xml
+# test_reports:
+#   - test-reports/*.xml
 
 artifacts:
   artifactory:
