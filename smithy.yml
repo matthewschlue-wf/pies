@@ -29,7 +29,7 @@ test_reports: testing
 after_script:
   - tar -C docs -cvzf ./pie-help.tar.gz html
 
-documentation: pie-help.tar.gz
+# documentation: pie-help.tar.gz
 
 test_reports:
   - test-reports/*.xml
