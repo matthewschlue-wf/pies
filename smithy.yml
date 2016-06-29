@@ -1,4 +1,4 @@
-project: foobar
+project: lambda
 language: foobar
 # runtime: 2.7
 
