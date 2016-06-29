@@ -40,3 +40,5 @@ artifacts:
     - infer-client-*.jar
   pypi:
     - setup.py
+  release:
+    - aws_lambda_fsm_prototypes-0.0.3.zip
