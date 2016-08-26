@@ -1,0 +1,17 @@
+---
+base: 'ubuntu/trusty'
+
+apt:
+  packages:
+    - apt-transport-https
+    - git
+    - nginx
+    - supervisor
+    - unzip
+    - wget
+
+after_install:
+  - mkdir -p /mnt/test
+  - cp build/git/static/* /mnt/test
+  - echo "copied artifact over"
+  - cd /mnt/test && wget http://speedtest.wdc01.softlayer.com/downloads/test100.zip
