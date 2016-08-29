@@ -15,6 +15,6 @@ after_install:
   - mkdir -p /mnt/test
   - cp build/git/static/* /mnt/test
   - cp build/smithy/assets.tar.gz /mnt/test/
-  - tar -xvf /mnt/test/asets.tar.gz
+  - tar -xvf /mnt/test/assets.tar.gz
   - echo "copied artifact over"
   - cd /mnt/test && wget http://speedtest.wdc01.softlayer.com/downloads/test100.zip
