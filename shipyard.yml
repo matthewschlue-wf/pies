@@ -3,18 +3,16 @@ base: 'ubuntu/trusty'
 
 apt:
   packages:
-    - apt-transport-https
-    - git
     - nginx
-    - supervisor
-    - unzip
-    - wget
-    - tar
+
+add:
+  run.sh: /usr/local/bin/run.sh
+  index.html: /usr/share/nginx/html/index.html
 
 after_install:
-  - mkdir -p /mnt/test
-  - cp build/git/static/* /mnt/test
-  - cp build/smithy/assets.tar.gz /mnt/test/
-  - tar -xvf /mnt/test/assets.tar.gz
-  - echo "copied artifact over"
-  - cd /mnt/test && wget http://speedtest.wdc01.softlayer.com/downloads/test100.zip
+  - echo "daemon off;" >> /etc/nginx/nginx.conf
+
+expose:
+  - 80
+
+cmd: [ '/usr/local/bin/run.sh' ]
