@@ -8,6 +8,7 @@ apt:
 add:
   run.sh: /usr/local/bin/run.sh
   index.html: /usr/share/nginx/html/index.html
+  health.sh: /usr/local/bin/health.sh
 
 after_install:
   - echo "daemon off;" >> /etc/nginx/nginx.conf
