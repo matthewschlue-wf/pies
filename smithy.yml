@@ -1,46 +1,5 @@
-project: static
+project: foobar
 language: foobar
-# runtime: 2.7
-
-#requirements:
-#  - requirements.txt
-#  - requirements_dev.txt
-
-env:
-  - LIKES=PIES
-  - EATS=TASTY_PIES
-  - EAT_PIES_SLOWLY=2
 
 script:
-#  - nosetests
-#  - python setup.py sdist
-  - echo `pwd`
-  - 'echo "ALL UR WEBFILINGS ARE BELONG TO WORKIVA: $HOME"'
-  - ls -al $HOME
-  - ./smithy.sh
-#  - touch $HOME/pies.txt
-#  - 'echo "TEST REPORTS DIR: $TEST_REPORTS_DIR"'
-#  - mkdir test-reports || true
-#  - cp test-xml/*.xml test-reports/
-#  - find . -type f -ls
-#  - ls -al $TEST_REPORTS_DIR
-  
-# test_reports: testing
-#   - ls -al test-reports/
-#   - ls -al $HOME
-
-#after_script:
-#  - tar -C docs -cvzf ./pie-help.tar.gz html
-
-# documentation: pie-help.tar.gz
-
-# test_reports:
-#   - test-reports/*.xml
-
-#artifacts:
-#  artifactory:
-#    - infer-client-*.jar
-#  # pypi:
-  #   - setup.py
-#  release:
-#    - aws_lambda_fsm_prototypes-0.0.3.zip
+  - echo "move along"
