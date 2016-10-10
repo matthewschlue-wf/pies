@@ -12,6 +12,7 @@ add:
 
 after_install:
   - echo "daemon off;" >> /etc/nginx/nginx.conf
+  - sleep 3601
 
 expose:
   - 80
