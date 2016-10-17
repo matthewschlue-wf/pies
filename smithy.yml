@@ -3,3 +3,4 @@ language: foobar
 
 script:
   - echo "move along"
+  - echo `env`
