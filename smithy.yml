@@ -1,3 +1,6 @@
 project: static
 
 script: echo "test"
+
+artifacts:
+  static: dist
