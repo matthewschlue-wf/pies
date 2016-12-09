@@ -4,7 +4,7 @@ language: java
 # runner_image: drydock-prod.workiva.org/workiva/smithy-runner-generator:82528
 
 script:
-  - ls ~/
-  - md5sum wk-graph-99.0.0.jar
-  - mvn install:install-file -Dfile=wk-graph-99.0.0.jar -DpomFile=pom.xml
+  # - ls ~/
+  # - md5sum wk-graph-99.0.0.jar
+  # - mvn install:install-file -Dfile=wk-graph-99.0.0.jar -DpomFile=pom.xml
   - echo `env`
