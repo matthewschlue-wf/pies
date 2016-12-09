@@ -1,5 +1,5 @@
 project: foobar
-language: java
+language: foobar
 
 # runner_image: drydock-prod.workiva.org/workiva/smithy-runner-generator:82528
 
