@@ -3,6 +3,7 @@ base: 'ubuntu/trusty'
 
 apt:
   packages:
+    - librsvg2-bin
     - nginx
 
 add:
