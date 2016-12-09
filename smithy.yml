@@ -1,7 +1,7 @@
 project: foobar
 language: java
 
-runner_image: drydock-prod.workiva.org/workiva/smithy-runner-generator:82528
+# runner_image: drydock-prod.workiva.org/workiva/smithy-runner-generator:82528
 
 script:
   - ls ~/
