@@ -1,9 +1,10 @@
-project: foobar
-language: foobar
+project: python
+language: python
 
 # runner_image: drydock-prod.workiva.org/workiva/smithy-runner-generator:82528
 
 script:
+  - sleep 100000
   # - ls ~/
   # - md5sum wk-graph-99.0.0.jar
   # - mvn install:install-file -Dfile=wk-graph-99.0.0.jar -DpomFile=pom.xml
