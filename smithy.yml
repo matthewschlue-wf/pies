@@ -1,4 +1,4 @@
-project: python
+project: foobar
 language: python
 
 # runner_image: drydock-prod.workiva.org/workiva/smithy-runner-generator:82528
