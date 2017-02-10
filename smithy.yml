@@ -18,6 +18,7 @@ script:
   - 'echo "ALL UR WEBFILINGS ARE BELONG TO WORKIVA: $HOME"'
   - ls -al $HOME
   - ./smithy.sh
+  - echo "test"
 #  - touch $HOME/pies.txt
 #  - 'echo "TEST REPORTS DIR: $TEST_REPORTS_DIR"'
 #  - mkdir test-reports || true
